@@ -1,1 +1,7 @@
+name = "beauty-demo-bot"
+main = "worker.mjs"
+compatibility_date = "2026-05-27"
 
+[[kv_namespaces]]
+binding = "APPOINTMENTS"
+id = "94fc20bc0f98455aa9748cdb96ccd5e8"
